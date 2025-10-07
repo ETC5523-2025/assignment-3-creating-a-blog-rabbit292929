@@ -1,13 +1,41 @@
 ---
-title: "About"
+title: "Zhuo Zhang"
 image: profile.jpg
 about:
-  template: jolla
+  id: info
+  template: trestles
+  image-width: 20em
+  image-shape: round
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
-
+      href: https://github.com/rabbit292929
+    - icon: envelope
+      text: Email
+      href: "mailto:zzha0623@student.monash.edu"
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+::: {#info}
+Hi, welcome to my homepage! I'm Zhuo Zhang, and here is my profile.
+
+### <i class="bi bi-mortarboard-fill"></i> Education
+
+**Monash University** — *Master of Business Analytics*\
+Melbourne, 🇦🇺 · 2025–persent
+
+**Beijing Institute of Petrochemical Technology** — *Bachelor of Accounting*\
+Beijing, 🇨🇳 · 2018 - 2022
+
+### <i class="bi bi-journal-bookmark-fill"></i> Experience
+
+**Deloitte** — *Auditor*\
+Beijing, 🇨🇳 · 2022 - 2023
+
+### <i class="bi bi-dribbble"></i> Interest
+
+🏓️ and 🎾 are my two major hobbies. Welcome friends with the same hobbies to play with me!
+:::
+
+My research focuses on leveraging open data and R, the most powerful open source software available today, to provide evidence-based solutions to various real-world problems.
+
+The reason why I chose this research direction is that in today's digital age, massive amounts of data will enable all kinds of enterprises, organizations and governments to gradually shift from the past process-driven model to a new data-driven model. Based on this background, mastering the ability to let "data speak" will become an essential skill for our generation.
